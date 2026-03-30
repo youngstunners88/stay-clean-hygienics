@@ -1,0 +1,20 @@
+{
+  "businessName": "Stay Clean Hygienics",
+  "category": "cleaning",
+  "brandColors": {
+    "primary": "#6C5CE7",
+    "secondary": "#A29BFE",
+    "accent": "#FD79A8",
+    "dark": "#5B4BC4",
+    "light": "#F3F0FF"
+  },
+  "tagline": "Clean Home, Happy Life",
+  "services": [
+    "Residential Cleaning",
+    "Office Cleaning",
+    "Deep Cleaning",
+    "Window Cleaning",
+    "Move-in/Move-out",
+    "Carpet Cleaning"
+  ]
+}
